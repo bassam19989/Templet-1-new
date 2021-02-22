@@ -1,0 +1,52 @@
+
+.marginBottom10{
+    margin-bottom: 10px ;
+}
+
+.marginBottom15{
+    margin-bottom:15px ;
+}
+
+.margin-mid{
+    margin: 0 5%;
+}
+
+.width30{
+    width: 30%;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.left{
+    float: left;
+}
+
+.hidden{
+    overflow: hidden;
+}
+
+.center{
+    text-align: center;
+}
+
+.position-a{
+    position: absolute;
+}
+
+.position-r{
+    position: relative;
+}
+
+.display-b{
+    display: block;
+}
+
+.white{
+    color: var(--whitecolor);
+}
